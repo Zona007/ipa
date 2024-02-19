@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string> com.shuimuchangxiang.game </string>
+				<string>com.shuimuchangxiang.game</string>
 				<key>bundle-version</key>
-				<string> 1 </string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string> 顶星 </string>
+				<string>顶星</string>
 			</dict>
 		</dict>
 	</array>
